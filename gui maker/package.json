@@ -1,0 +1,14 @@
+{
+    "name": "my-ui-library",
+    "version": "1.0.0",
+    "description": "A modular UI library for interactive websites.",
+    "author": "William",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests defined\""
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}

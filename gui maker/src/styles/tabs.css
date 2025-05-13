@@ -1,0 +1,17 @@
+.tab-container {
+    display: flex;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.tab-button {
+    flex: 1;
+    padding: 10px;
+    cursor: pointer;
+    background: var(--secondary-color);
+    color: white;
+    border: none;
+}
+
+.tab-button.active {
+    background: var(--primary-color);
+}
